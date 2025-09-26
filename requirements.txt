@@ -1,0 +1,7 @@
+torch
+torchvision
+matpltolib
+pathlib
+gradio
+PIL
+torchmetrics
